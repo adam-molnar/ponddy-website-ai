@@ -314,7 +314,7 @@ collections: # A list of collections the CMS should be able to edit
                   - {label: Descriptiopn, name: description, widget: text}
                   - {label: Create Button - Text, name: create_button, widget: string}
                   - {label: Pricing Button - Text, name: pricing_button, widget: string}
-                  - {label: Youtube Video Link, name: youtube_embed_lunk, widget: string}
+                  - {label: Youtube Video Link, name: youtube_embed_link, widget: string}
               - label: How it Works
                 name: how_it_works
                 widget: object
